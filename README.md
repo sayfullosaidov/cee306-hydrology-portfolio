@@ -27,17 +27,30 @@ The coursework explored a range of topics in hydrology and water resources, incl
 
 ## Coursework
 
-The notebooks in this repository come from exercises and assignments completed during the course. They demonstrate my work with computational approaches to hydrology, including data analysis, visualization, physical and conceptual modeling, and forecasting.
+The notebooks below contain work completed as part of the CEE 306 coursework. They are organized into homework assignments and hydrologic forecasting exercises completed throughout the course.
 
-Major areas of coursework included:
+### Homework
 
-- Python-based hydrologic analysis
-- Linear reservoir modeling
-- Evapotranspiration and energy balance
-- Groundwater analysis
-- Machine learning applications in hydrology
-- Runoff and overland-flow processes
-- Hydrologic forecasting
+| Assignment | Topic | Notebook |
+|---|---|---|
+| Homework 0 | Python Introduction | [View Notebook](homework/HW0.ipynb) |
+| Homework 1 | Linear Reservoir | [View Notebook](homework/HW1.ipynb) |
+| Homework 2 | Evapotranspiration & Energy Balance | [View Notebook](homework/HW2.ipynb) |
+| Homework 3 | Groundwater | [View Notebook](homework/HW3.ipynb) |
+| Homework 4 | Machine Learning | [View Notebook](homework/HW4.ipynb) |
+| Homework 5 | Overland Flow | [View Notebook](homework/HW5.ipynb) |
+
+### Hydrologic Forecasts
+
+The forecasting exercises were developed throughout the course as additional hydrologic concepts and modeling approaches were introduced.
+
+| Forecast | Notebook |
+|---|---|
+| Forecast 0 | [View Notebook](forecasts/Forecast0.ipynb) |
+| Forecast 1 | [View Notebook](forecasts/Forecast1.ipynb) |
+| Forecast 2 | [View Notebook](forecasts/Forecast2.ipynb) |
+| Forecast 3 | [View Notebook](forecasts/Forecast3.ipynb) |
+| Forecast 4 | [View Notebook](forecasts/Forecast4.ipynb) |
 
 ## Tools
 
