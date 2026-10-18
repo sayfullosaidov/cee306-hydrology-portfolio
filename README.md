@@ -1,6 +1,6 @@
 # CEE 306: Hydrology — Water and Climate
 
-**Princeton University | Fall 2026**
+**Princeton University | Spring 2026**
 
 This repository contains selected computational work completed as part of **CEE 306: Hydrology — Water and Climate** at Princeton University.
 
